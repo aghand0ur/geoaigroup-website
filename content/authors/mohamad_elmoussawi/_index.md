@@ -1,6 +1,6 @@
 ---
 title: Mohamad El Moussawi
-role: Research Assistant
+role: GeoInformatics Research Assistant
 bio: null
 interests:
   - Deep learning
@@ -29,6 +29,7 @@ organizations:
 superuser: false
 user_groups:
   - Members
+weight: 3
 ---
 
 **Mohamad El Moussawi** is a Physicist and Programmer.

@@ -1,6 +1,6 @@
 ---
 title: Mohamad Chalhoub
-role:  Graduate Student
+role: Geospatial Research Assistant
 bio: null
 interests:
   - Geospatial Technologies
@@ -23,5 +23,6 @@ email: ""
 superuser: false
 user_groups:
   - Members
+weight: 6
 ---
 **Mohamad Chalhoub** is a computer science enthusiast with a diverse background, holding a Bachelor's degree in Computer Science from the Lebanese University and currently pursuing a Master's degree in GIS and Data Science. Mohamad academic journey has exposed him to a wide range of topics, including Data Structures, Algorithms, OS & Synchronization, OO programming, Android development, SQL Database, Networking, Image Processing/Synthesis, Web development, ASP.NET framework, Compiler design, AI, Programming of distributed applications, GIS, Cloud Computing, and Data Mining. Mohamad is passionate about learning and applying new technologies to solve complex problems.

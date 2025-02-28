@@ -22,6 +22,6 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Members
+  - Alumni
 ---
 **Abbas Naim** is a driven Computer Engineering student at AUB with experience in Python, REACT, SQL and Java.

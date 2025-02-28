@@ -1,6 +1,6 @@
 ---
 title: Hassan Wehbi
-role: Computer Engineer
+role: MLOps Engineer
 bio: null
 interests:
   - Computer Vision
@@ -23,5 +23,6 @@ email: ""
 superuser: false
 user_groups:
   - Members
+weight: 4
 ---
 **Hassan Wehbi** is a Computer Science Engineer from the American University of Beirut, with a strong background in algorithms and programming. He specializes in Machine Learning, particularly in the areas of Computer Vision, and possesses exceptional skills as a software developer. In his free time, Hassan enjoys developing games that blend storytelling with innovative mechanics. He is always exploring new ways to integrate AI into gaming experiences.

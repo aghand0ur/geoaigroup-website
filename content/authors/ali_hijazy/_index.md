@@ -1,6 +1,6 @@
 ---
 title: Ali Hijazy
-role: Research Assistant
+role: Geomatics and Surveying Researcher
 bio: null
 interests:
   - Remote Sensing
@@ -24,7 +24,8 @@ organizations:
     url: null
 superuser: false
 user_groups:
-  - Members
+  - Alumni
+weight: 5
 ---
 
 **Ali Hijazy** is a multidisciplinary professional with a rich background in surveying engineering, GIS analysis, urban planning, and data analysis. Proficient in Python, SQL, machine learning, and spatial data analysis, Ali brings a versatile skill set honed through hands-on experience and formal education.
