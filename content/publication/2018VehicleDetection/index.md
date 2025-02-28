@@ -8,7 +8,7 @@ publication_types: ['paper-conference']
 authors:
   - admin
   - houssam_krayem
-  - ajezzini
+  - abdulkarim_gizzini
 
 url_pdf: ""
 url_dataset: ""

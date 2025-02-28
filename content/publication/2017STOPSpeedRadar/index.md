@@ -7,7 +7,10 @@
 publication_types: ["article-journal"]
 
 authors:
+  - Rola Naja
+  - nadia_mouawad
   - admin
+  - Kassem Fawaz
 
 url_pdf: ""
 url_dataset: ""
