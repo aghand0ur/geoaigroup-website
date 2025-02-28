@@ -1,6 +1,6 @@
 ---
 title: Abdul Karim Gizzini
-role: Post Doctoral Researcher
+role: R&D Project Manager
 avatar_filename: avatar.jpg
 bio: null
 interests:
@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/abdul-karim-gizzini-bb50b7120/
 organizations:
-  - name: ETIS Lab - ENSEA
+  - name: SogetiLabs
     url: null
 email: ""
 superuser: false

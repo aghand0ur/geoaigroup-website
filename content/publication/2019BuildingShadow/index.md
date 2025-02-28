@@ -7,7 +7,7 @@ publication_types: ["article-journal"]
 
 authors:
   - admin
-  - ajezzini
+  - abdulkarim_gizzini
 
 url_pdf: ""
 url_dataset: ""
