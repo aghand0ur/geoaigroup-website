@@ -8,8 +8,8 @@ publication_types: ['paper-conference']
 authors:
   - mohamad_dimassi
   - abed_samhat
-  - mohamad_zaraket
-  - jamal_haydar
+  - Mohamad Zaraket
+  - Jamal Haydar
   - admin
 
 url_pdf: https://arxiv.org/pdf/2111.14650

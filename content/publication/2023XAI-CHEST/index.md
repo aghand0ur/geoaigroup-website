@@ -7,7 +7,7 @@ publication_types: ["article"]
 
 authors:
   - abdulkarim_gizzini
-  - Yahia Medjahdi
+  - yahia_medjahdi
   - admin
   - Laurent Clavier
   
