@@ -6,7 +6,7 @@
 publication_types: ['paper-conference']
 
 authors:
-  - ali_mayladan
+  - Ali Mayladan
   - hasan_nasrallah
   - hasan_moughnieh
   - mustafa_shukor
