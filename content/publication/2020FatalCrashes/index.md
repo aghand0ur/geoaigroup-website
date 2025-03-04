@@ -8,7 +8,7 @@ publication_types: ["article-journal"]
 authors:
   - admin
   - huda_hamoud
-  - Samar Al-Hajj
+  - samar_alhajj
 
 url_pdf: https://www.mdpi.com/1660-4601/17/11/4111/pdf
 url_dataset: ""
