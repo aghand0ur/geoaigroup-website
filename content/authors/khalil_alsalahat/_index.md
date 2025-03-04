@@ -26,4 +26,4 @@ user_groups:
 
 ---
 
-**Khalil Al Salahat** is a .
+**Khalil Al Salahat**, a physicist graduated from the Lebanese University, with a deep passion for physics and a strong drive to understand and research physical processes. He also has a keen interest in geoinformatics engineering. Additionally, he has a special intrigue for quantum computing and its potential advancements.
