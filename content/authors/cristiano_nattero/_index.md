@@ -4,11 +4,9 @@ role: Business Developer
 avatar_filename: avatar.jpg
 bio: null
 interests:
+  - Software Development
+  - Operations Research
   - Machine Learning
-  - Image and Signal Processing
-  - Deep Learning
-  - Vehicular Communications
-  - Channel Estimations
 social:
   - icon: envelope
     icon_pack: fas
