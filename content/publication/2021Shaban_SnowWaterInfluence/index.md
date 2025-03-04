@@ -8,7 +8,7 @@ publication_types: ["article-journal"]
 authors:
   - Amin Shaban
   - Laurent Drapeau
-  - Luciano Telesca
+  - luciano_telesca
   - Nabil Amacha
   - admin
 

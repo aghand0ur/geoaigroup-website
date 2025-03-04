@@ -10,7 +10,7 @@ authors:
   - huda_hamoud
   - mohamad_dimassi
   - houssam_krayem
-  - jamal_haydar
+  - Jamal Haydar
   - adam_issa
 
 url_pdf: ""

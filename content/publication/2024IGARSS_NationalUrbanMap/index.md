@@ -8,7 +8,7 @@ publication_types: ['paper-conference']
 authors:
   - hasan_nasrallah
   - abed_samhat
-  - Cristiano Nattero
+  - cristiano_nattero
   - admin
   
 url_pdf: 

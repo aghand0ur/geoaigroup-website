@@ -9,7 +9,7 @@ authors:
   - Amin Shaban
   - Mohamad Awad
   - admin
-  - Luciano Telesca
+  - luciano_telesca
 
 url_pdf: ""
 url_dataset: ""

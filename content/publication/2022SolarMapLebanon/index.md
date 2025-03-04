@@ -8,7 +8,7 @@ publication_types: ["article-journal"]
 authors:
   - hasan_nasrallah
   - abed_samhat
-  - Yilei Shi
+  - yilei_shi
   - Xiaoxiang Zhu
   - ghaleb_faour
   - admin

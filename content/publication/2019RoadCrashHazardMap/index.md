@@ -8,7 +8,7 @@ publication_types: ["article-journal"]
 authors:
   - admin
   - huda_hamoud
-  - Luciano Telesca
+  - luciano_telesca
 
 url_pdf: ""
 url_dataset: ""

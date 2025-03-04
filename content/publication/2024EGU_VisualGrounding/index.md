@@ -11,7 +11,7 @@ authors:
   - mohamad_zahweh
   - hasan_nasrallah
   - mustafa_shukor
-  - Cristiano Nattero
+  - cristiano_nattero
   - Paolo Campanella
   
 url_pdf: ""
