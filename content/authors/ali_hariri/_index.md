@@ -1,6 +1,6 @@
 ---
 title: Ali Hariri
-role: Phd Student
+role: PhD Student
 bio: null
 interests:
   - Cloud
