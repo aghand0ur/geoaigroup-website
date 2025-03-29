@@ -6,9 +6,9 @@
 publication_types: ['preprint']
 
 authors:
-  - khalil_al_salahat
-  - mohamad_el_moussawi
-  - Veera ganesh Yalla
+  - khalil_alsalahat
+  - mohamad_elmoussawi
+  - veeraganesh_yalla
   - admin
   
 url_pdf: 
