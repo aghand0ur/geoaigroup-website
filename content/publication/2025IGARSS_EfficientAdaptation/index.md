@@ -15,7 +15,7 @@ authors:
   
 url_pdf: 
 url_dataset: ""
-url_project: "https://geogroup.ai/project/geourbanai-mapping/"
+url_project: "https://geogroup.ai/project/vlm4eo/"
 url_source: ""
 url_video: ""
 url_slides: ""
