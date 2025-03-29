@@ -23,7 +23,7 @@ url_poster: ""
 url_code: ""
 slides: null
 
-title: "Automated National Urban Map Extraction"
+title: "Efficient Adaptation For Remote Sensing Visual Grounding"
 #publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*"
 
 # Show publication and sharing statistics? (requires valid doi)
@@ -35,7 +35,7 @@ add_badge: true
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - geourbanai-mapping
+  - VLM4EO
 
 
 # Featured image
