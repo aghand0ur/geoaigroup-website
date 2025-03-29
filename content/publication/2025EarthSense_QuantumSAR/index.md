@@ -46,7 +46,7 @@ image:
   
 featured: false
 #doi: "10.1109/JSTARS.2022.3181446"
-date: "2025-04-25T00:00:00Z"
+date: "2025-03-29T16:00:00Z"
 
 abstract: "Synthetic aperture radar (SAR) data processing is crucial for high-resolution Earth observation and remote sensing applications, one of the most commonly used algorithms for this task is the Range Doppler Algorithm (RDA). Using the Fast Fourier Transform (FFT), the collected signal is transformed to the frequency domain and then goes through the processing steps of this algorithm. However, when it comes to large datasets, this process can be computationally expensive. This paper explores the implementation of a Quantum Range Doppler Algorithm (QRDA), relying on the Quantum Fourier Transform (QFT) as a speedup tool over the classical FFT, additionally it proposes a quantum version of the Range Cell Migration Correction (RCMC) in the Fourier domain, one of the key correctional steps of the algorithm, and compares it with its classical counterpart."
 
