@@ -41,7 +41,7 @@ projects:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption:
+  caption: "LaLGA: Multi-Scale Language-Aware Visual Grounding on Remote Sensing Data"
   focal_point: ""
   preview_only: false
   
