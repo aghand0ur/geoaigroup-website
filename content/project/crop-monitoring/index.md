@@ -9,6 +9,8 @@ tags:
 
 image:
   filename: featured.jpg
+  caption: 'Nördlingen, Germany. Found on the internet, source unknown.'
+
 ---
 🎉<b>ESA NoR website has just published our report</b> for the sponsored project "Time series analysis of Lebanese crops" <a href="./TimeSeriesAnalysisofLebaneseCrops_2021.pdf" target=_blank>[Report]</a>.<br>
 
