@@ -8,7 +8,7 @@ tags:
 - Deep Learning
 
 image:
-  filename: featured.png
+  filename: featured.jpg
 ---
 🎉<b>ESA NoR website has just published our report</b> for the sponsored project "Time series analysis of Lebanese crops" <a href="./TimeSeriesAnalysisofLebaneseCrops_2021.pdf" target=_blank>[Report]</a>.<br>
 
