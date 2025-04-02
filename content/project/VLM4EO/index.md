@@ -1,6 +1,6 @@
 ---
 title: VLM4EO
-summary: Vision Language MOdels for Earth Observation
+summary: Vision Language Models for Earth Observation (VLM4EO)
 
 draft: false
 featured: false
