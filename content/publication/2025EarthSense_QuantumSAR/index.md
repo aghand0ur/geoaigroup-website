@@ -11,7 +11,7 @@ authors:
   - veeraganesh_yalla
   - admin
   
-url_pdf: 
+url_pdf: "https://arxiv.org/pdf/2504.01832"
 url_dataset: ""
 url_project: ""
 url_source: ""
