@@ -4,3 +4,8 @@
 
 GEOspatial Artificial Intelligence (GEOAI) is a research group located at the National Center for Remote Sensing - CNRS Lebanon. GEOAI harnesses the power of artificial intelligence to unlock the potential of satellite data by focusing on AI-assisted mapping spanning various applications, including urban analytics, transportation, waterbodies monitoring and crop-yield estimation. We develop tools integrating deep learning techniques to automate the process of urban features extraction and collect crowd-sourcing data from various sources. Evidence gained from our models and data analysis allows for a robust humanitarian response and provides policymakers and key stakeholders with insights to design tailored regulations and safety countermeasures for urban social good.
 GEOAI group provides a unique opportunity for geospatial training in a professional research environment in Lebanon. We have hosted more than 40 students at both undergraduate and graduate levels since 2016.  
+
+## Install hugo
+- `wget https://github.com/gohugoio/hugo/releases/download/v0.119.0/hugo_extended_0.119.0_linux-amd64.deb`
+- `sudo dpkg -i hugo_extended_0.119.0_linux-amd64.deb`
+- `sudo ln -s /usr/local/bin/hugo /usr/bin/hugo`
