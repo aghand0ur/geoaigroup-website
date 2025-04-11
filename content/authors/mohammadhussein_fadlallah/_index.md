@@ -3,9 +3,10 @@ title: Mohammad Fadlallah
 role: Computer Science Student
 bio: null
 interests:
-  - Deep learning
+  - Programming
+  - Deep Learning
   - Computer Vision
-  - Reinforcement Learning
+  - Data Analysis
 avatar_filename: avatar
 social:
   - display:
@@ -27,4 +28,4 @@ user_groups:
   - Alumni
 ---
 
-**Mohammad Fadlallah** is .
+**Mohammad Fadlallah** is a Computer Science - Statistics soon-to-be Graduate from AUB.
