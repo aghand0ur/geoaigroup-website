@@ -3,10 +3,9 @@ title: Khalil Al Salahat
 role: Research Assistant
 bio: null
 interests:
-  - Deep learning
-  - Computer Vision
-  - Computational Physics
-  - Electronics
+  - Quantum Computing For Earth Observation
+  - GeoInformatics
+
 avatar_filename: avatar
 social:
   - display:

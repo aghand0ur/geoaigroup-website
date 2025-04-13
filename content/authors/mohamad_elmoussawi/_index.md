@@ -3,10 +3,9 @@ title: Mohamad El Moussawi
 role: GeoInformatics Research Assistant
 bio: null
 interests:
-  - Deep learning
-  - Computer Vision
-  - Computational Physics
-  - Electronics
+  - Quantum Computing For Earth Observation
+  - GeoInformatics
+
 avatar_filename: avatar
 social:
   - display:
@@ -32,4 +31,4 @@ user_groups:
 weight: 3
 ---
 
-**Mohamad El Moussawi** is a Physicist and Programmer.
+**Mohamad El Moussawi** is a Physicist and Full Stack Developer.
