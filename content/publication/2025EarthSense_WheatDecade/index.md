@@ -13,7 +13,7 @@ authors:
   - veeraganesh_yalla
   - admin
   
-url_pdf: 
+url_pdf: "https://arxiv.org/pdf/2504.11366"
 url_dataset: ""
 url_project: "https://geogroup.ai/project/crop-monitoring/"
 url_source: ""
