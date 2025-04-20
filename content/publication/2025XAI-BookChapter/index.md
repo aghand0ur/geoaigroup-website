@@ -46,7 +46,7 @@ image:
   
   
 featured: false
-#doi: "10.1109/TVT.2023.3345632"
+doi: "10.1016/B978-0-44-329135-7.00014-X"
 date: "2025-03-22T00:00:00Z"
 
 abstract: "The native artificial intelligence (AI)  concept is envisioned to be integrated into 6G future communications. Due to the black-box nature of the majority of AI models, the decision-making strategy used by these models is critical, risky, and challenging. This issue can be tackled by developing explainable AI (XAI) schemes that aim to explain the logic behind the black-box model behavior, and thus, ensure its efficient and safe deployment. In this context, this chapter highlights the main challenges of the recent AI-based solutions for wireless communications, in particular, physical (PHY) layer applications. In addition to that, the latest research efforts toward designing XAI schemes for PHY layer applications are discussed. As a case study, this chapter presents an XAI-based scheme for channel estimation in wireless communications, where the presented scheme shows that employing XAI can offer a bunch of advantages including (1) understanding the black-box model behavior, (2) reducing the overall computational complexity of the employed AI model, and (3) improving the performance of the desired application. Finally, a list of future research directions is provided."
