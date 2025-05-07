@@ -43,7 +43,7 @@ content:
         media: welcome.png
         fit: cover
     - title: Openings!
-      content: 'Internship openings available. Send resume and cover letter👇'
+      content: 'Internship [openings](https://geoai-cnrs.notion.site/Internship-Openings-1e9fc2573fc680f8b005cb05ed3ee604) available. Send resume and cover letter👇'
       align: center
       background:
         position: center
