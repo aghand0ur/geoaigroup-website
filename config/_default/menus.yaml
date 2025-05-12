@@ -33,15 +33,18 @@ main:
   - name: Team
     url: '#people'
     weight: 70
+  - name: Interns
+    url: 'https://geoai-cnrs.notion.site/'
+    weight: 80
 #  - name: Dataset
 #    url: '#dataset'
 #    weight: 80
   - name: Catalog
     url: 'catalogue'
-    weight: 80
+    weight: 90
   - name: Media
     url: 'medias'
-    weight: 90
+    weight: 100
   - name: Contact Us
     url: '#contact'
-    weight: 100
+    weight: 110
