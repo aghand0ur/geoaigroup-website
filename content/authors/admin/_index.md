@@ -41,7 +41,7 @@ weight: 1
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-I am an associate researcher at the Lebanese National Center for Remote Sensing - National Council for Scientific Research (CNRS), where I have established the Geospatial Earth Observation (GEO) group. I earned a Ph.D. in Computer Communication in 2013 and was with Toyota Motor North America, InfoTech Labs at Mountain View, USA, before joining CNRS in 2015, where I also acted as the coordinator of the Lebanese National Innovation Transfer Network.
+I am an associate researcher at the Lebanese National Center for Remote Sensing - National Council for Scientific Research (CNRS), where I have established the GEOspatial Artificial Intelligence (GEOAI) group. I earned a Ph.D. in Computer Communication in 2013 and was with Toyota Motor North America, InfoTech Labs at Mountain View, USA, before joining CNRS in 2015, where I also acted as the coordinator of the Lebanese National Innovation Transfer Network.
 
 
-I have over 40 publications with unique research focus on **AI-assisted mapping** spanning various applications, including urban analytics, transportation, waterbodies monitoring and crop-yield estimation. In the past, I made research contributions to Intelligent Transportation Systems (ITS), vehicular cognitive networks and IEEE P1609 standard Working Group.
+I have over 50 publications with unique research focus on **AI-assisted mapping** spanning various applications, including urban analytics, transportation, waterbodies monitoring and crop-yield estimation. In the past, I made research contributions to Intelligent Transportation Systems (ITS), vehicular cognitive networks and IEEE P1609 standard Working Group.
