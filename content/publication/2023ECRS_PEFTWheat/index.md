@@ -22,7 +22,7 @@ url_poster: ""
 url_code: "https://github.com/geoaigroup/GEOAI-ECRS2023/tree/main/Empirical%20Study%20of%20PEFT%20techniques%20for%20Winter%20Wheat%20Segmentation"
 slides: null
 
-title: "Empirical Study of PEFT techniques for Winter Wheat Segmentation"
+title: "Empirical Study of PEFT techniques for Winter Wheat"
 #publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*"
 
 # Show publication and sharing statistics? (requires valid doi)
