@@ -18,7 +18,7 @@ url_dataset: ""
 url_project: "https://geogroup.ai/project/vlm4eo/"
 url_source: ""
 url_video: ""
-url_slides: "https://geogroup.ai/publication/2025igarss_efficientadaptation/Slides_2025IGARSS_EfficientAdaptation.pdf"
+url_slides: "https://geogroup.ai/publication/2025igarss_efficientadaptation/Slides_2025IGARSS_EfficientAdaptation_FM.pdf"
 url_poster: ""
 url_code: ""
 slides: null
