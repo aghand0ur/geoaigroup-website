@@ -17,7 +17,7 @@ url_source: ""
 url_video: ""
 url_slides: ""
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/geoaigroup/GEOAI-ECRS2023/tree/main/Trainable%20Noise%20Model%20as%20an%20XAI%20evaluation%20method%20application%20on%20Sobol"
 slides: null
 
 title: "Trainable Noise Model as an XAI evaluation method: application on Sobol for remote sensing image segmentation"

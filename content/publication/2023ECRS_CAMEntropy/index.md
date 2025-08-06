@@ -17,7 +17,7 @@ url_source: ""
 url_video: ""
 url_slides: ""
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/geoaigroup/GEOAI-ECRS2023/tree/main/Extending%20CAM-based%20XAI%20methods%20for%20Remote%20Sensing%20Imagery%20Segmentation"
 slides: null
 
 title: "Extending Cam-based XAI methods for Remote Sensing Imagery Segmentation"

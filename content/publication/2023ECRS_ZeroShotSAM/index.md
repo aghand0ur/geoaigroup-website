@@ -19,7 +19,7 @@ url_source: ""
 url_video: ""
 url_slides: ""
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/geoaigroup/GEOAI-ECRS2023/tree/main/Zero-Shot%20Refinement%20of%20Buildings%20Segmentation%20Models%20using%20SAM"
 slides: null
 
 title: "Zero-Shot Refinement of Buildings' Segmentation Models using SAM"
