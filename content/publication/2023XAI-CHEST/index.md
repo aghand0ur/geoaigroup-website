@@ -3,16 +3,15 @@
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["book-section"]
+publication_types: ["article-journal"]
 
 authors:
   - abdulkarim_gizzini
   - yahia_medjahdi
   - admin
   - Laurent Clavier
-  - Mouna Ben Mabrouk
   
-url_pdf: "https://arxiv.org/pdf/2407.07009"
+url_pdf: https://arxiv.org/pdf/2307.00952
 url_dataset: ""
 url_project: "https://geogroup.ai/project/xai/"
 url_source: ""
@@ -22,7 +21,7 @@ url_poster: ""
 url_code: ""
 slides: null
 
-title: "XAI for Wireless Communications"
+title: "Towards Explainable AI for Channel Estimation in Wireless Communications"
 #publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*"
 
 # Show publication and sharing statistics? (requires valid doi)
@@ -46,9 +45,9 @@ image:
   
   
 featured: false
-doi: "10.1016/B978-0-44-329135-7.00014-X"
-date: "2025-03-22T00:00:00Z"
+doi: "10.1109/TVT.2023.3345632"
+date: "2023-08-22T00:00:00Z"
 
-abstract: "The native artificial intelligence (AI)  concept is envisioned to be integrated into 6G future communications. Due to the black-box nature of the majority of AI models, the decision-making strategy used by these models is critical, risky, and challenging. This issue can be tackled by developing explainable AI (XAI) schemes that aim to explain the logic behind the black-box model behavior, and thus, ensure its efficient and safe deployment. In this context, this chapter highlights the main challenges of the recent AI-based solutions for wireless communications, in particular, physical (PHY) layer applications. In addition to that, the latest research efforts toward designing XAI schemes for PHY layer applications are discussed. As a case study, this chapter presents an XAI-based scheme for channel estimation in wireless communications, where the presented scheme shows that employing XAI can offer a bunch of advantages including (1) understanding the black-box model behavior, (2) reducing the overall computational complexity of the employed AI model, and (3) improving the performance of the desired application. Finally, a list of future research directions is provided."
+abstract: "Research into 6G networks has been initiated to support a variety of critical artificial intelligence (AI) assisted applications such as autonomous driving. In such applications, AI-based decisions should be performed in a real-time manner. These decisions include resource allocation, localization, channel estimation, etc. Considering the black-box nature of existing AI-based models, it is highly challenging to understand and trust the decision-making behavior of such models. Therefore, explaining the logic behind those models through explainable AI (XAI) techniques is essential for their employment in critical applications. This manuscript proposes a novel XAI-based channel estimation (XAI-CHEST) scheme that provides detailed reasonable interpretability of the deep learning (DL) models that are employed in doubly-selective channel estimation. The aim of the proposed XAI-CHEST scheme is to identify the relevant model inputs by inducing high noise on the irrelevant ones. As a result, the behavior of the studied DL-based channel estimators can be further analyzed and evaluated based on the generated interpretations. Simulation results show that the proposed XAI-CHEST scheme provides valid interpretations of the DL-based channel estimators for different scenarios."
 
 ---
