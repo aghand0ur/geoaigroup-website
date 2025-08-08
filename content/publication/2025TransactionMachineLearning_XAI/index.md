@@ -21,7 +21,7 @@ url_poster: ""
 url_code: ""
 slides: null
 
-title: "Explainable AI for Enhancing Efficiency of DL-based Channel Estimation"
+title: "XAI for Enhancing Efficiency of DL-based Channel Estimation"
 #publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*"
 
 # Show publication and sharing statistics? (requires valid doi)
