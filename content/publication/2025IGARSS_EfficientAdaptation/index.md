@@ -11,6 +11,7 @@ authors:
   - hasan_nasrallah
   - cristiano_nattero
   - Paolo Campanella
+  - Giovanni Nico
   - admin
   
 url_pdf: 
