@@ -8,7 +8,6 @@ publication_types: ['preprint']
 authors:
   - khalil_alsalahat
   - mohamad_elmoussawi
-  - veeraganesh_yalla
   - admin
   
 url_pdf: "https://arxiv.org/pdf/2504.01832"
