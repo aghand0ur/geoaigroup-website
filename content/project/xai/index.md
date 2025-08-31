@@ -1,6 +1,6 @@
 ---
 title: XAI for Earth Observation
-date: 2022-07-10T04:21:25.646Z
+date: 2025-04-04T04:21:25.646Z
 summary: Explainable Artificial Intelligence models for Aerial Images
 draft: false
 featured: false
