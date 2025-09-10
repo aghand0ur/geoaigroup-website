@@ -1,6 +1,6 @@
 ---
 title: Abdul Karim Gizzini
-role: R&D Project Manager
+role: Associate Professor
 avatar_filename: avatar.jpg
 bio: null
 interests:
@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/abdul-karim-gizzini-bb50b7120/
 organizations:
-  - name: SogetiLabs
+  - name: Université Paris-Est Créteil (UPEC)
     url: null
 email: ""
 superuser: false
@@ -29,6 +29,6 @@ user_groups:
 ---
 <!--StartFragment-->
 
-received his Ph.D. degree in telecommunications engineering in 2021 from Cergy Paris CY University in France. His Master and bachelor degrees in computer and communication engineering in 2017 and 2015, both from IUL university in Lebanon. His master thesis was conducted in collaboration with the Lebanese National Council for Scientific Research (CNRS). During 2020 he has been a visiting researcher at Vodafone Chair Mobile Communications Systems, Technical University of Dresden - Germany. Moreover, he has an active research collaboration with Technical University of Chemnitz - Germany, National Institute of Telecommunications (Inatel) - Brazil, New York University (NYU) - Abu Dhabi, CNRS - Lebanon. His research interests include vehicular communications, channel estimation in doubly dispersive channels, and artificial intelligence for wireless communications and image processing. He is currently a post-doctoral researcher at ETIS laboratory (UMR8051) which is a joint research unit between ENSEA, CY university, and CNRS in France.
+Received my Ph.D. degree in telecommunications engineering in 2021 from Cergy Paris CY University in France. My master’s and bachelor’s degrees in computer and communication engineering in 2017 and 2015, both from IUL university in Lebanon. I would like to mention that my master thesis was conducted in collaboration with the Lebanese National Council for Scientific Research (CNRS-L). During 2020 I have been a visiting researcher at Vodafone Chair Mobile Communications Systems, Technical University of Dresden - Germany. Moreover, I have an active research collaboration with Technical University of Chemnitz - Germany, National Institute of Telecommunications (Inatel) - Brazil, New York University (NYU) - Abu Dhabi, IIndraprastha Institute of Information Technology IIT-Delhi - India, and CNRS - Lebanon. I worked at ENSEA and IMT Nord Europe, France, as a postdoctoral researcher in 2022 and 2023, respectively. After that, I joined SogetiLabs, France, as an R&D project manager where I worked on AI-based solutions for improving the networking performance and QoS. My research interests include wireless communications, vehicular communications, channel estimation in doubly dispersive channels, and explainable artificial intelligence (XAI) for wireless communications, networking, and image processing. Recently, started my new position as an Associate Professor at Université Paris-Est Créteil, Laboratoire Images - Signaux et Systèmes Intelligents (LISSI), TincNET team.
 
 <!--EndFragment-->
