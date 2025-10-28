@@ -6,7 +6,7 @@
 publication_types: ['preprint']
 
 authors:
-  - Reem Hammoud
+  - reem_hammoud
   - abdulkarim_gizzini
   - admin
   
