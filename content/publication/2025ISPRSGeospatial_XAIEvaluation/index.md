@@ -6,11 +6,11 @@
 publication_types: ['preprint']
 
 authors:
-  - khalil_alsalahat
-  - mohamad_elmoussawi
+  - Reem Hammoud
+  - abdulkarim_gizzini
   - admin
   
-url_pdf: "https://arxiv.org/pdf/2504.01832"
+url_pdf: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -20,7 +20,7 @@ url_poster: ""
 url_code: ""
 slides: null
 
-title: "Quantum Meets SAR: A Novel Range-Doppler Algorithm for Next-Gen Earth Observation"
+title: "XAI Evaluation Framework for Semantic Segmentation"
 #publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*"
 
 # Show publication and sharing statistics? (requires valid doi)
@@ -47,6 +47,6 @@ featured: false
 #doi: "10.1109/JSTARS.2022.3181446"
 date: "2025-03-29T00:00:00Z"
 
-abstract: "Synthetic aperture radar (SAR) data processing is crucial for high-resolution Earth observation and remote sensing applications, one of the most commonly used algorithms for this task is the Range Doppler Algorithm (RDA). Using the Fast Fourier Transform (FFT), the collected signal is transformed to the frequency domain and then goes through the processing steps of this algorithm. However, when it comes to large datasets, this process can be computationally expensive. This paper explores the implementation of a Quantum Range Doppler Algorithm (QRDA), relying on the Quantum Fourier Transform (QFT) as a speedup tool over the classical FFT, additionally it proposes a quantum version of the Range Cell Migration Correction (RCMC) in the Fourier domain, one of the key correctional steps of the algorithm, and compares it with its classical counterpart."
+abstract: "Ensuring transparency and trust in artificial intelligence (AI) models is essential, particularly as they are increasingly applied in safety-critical and high-stakes domains. Explainable AI (XAI) has emerged as a promising approach to address this challenge, yet the rigorous evaluation of XAI methods remains crucial for optimizing the trade-offs between model complexity, predictive performance, and interpretability. While extensive progress has been achieved in evaluating XAI techniques for classification tasks, evaluation strategies tailored to semantic segmentation remain relatively underexplored. This work introduces a comprehensive and systematic evaluation framework specifically designed for assessing XAI in semantic segmentation, explicitly accounting for both spatial and contextual task complexities. The framework employs pixel-level evaluation strategies and carefully designed metrics to provide fine-grained interpretability insights. Simulation results using recently adapted class activation mapping (CAM)-based XAI schemes demonstrate the efficiency, robustness, and reliability of the proposed methodology. These findings contribute to advancing transparent, trustworthy, and accountable semantic segmentation models."
 
 ---
