@@ -20,7 +20,7 @@ url_poster: ""
 url_code: ""
 slides: null
 
-title: "50 Years of Water Body Monitoring: The Case of Qaraaoun Reservoir, Lebanon"
+title: "50 Years of Water Body Monitoring"
 #publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*"
 
 # Show publication and sharing statistics? (requires valid doi)
