@@ -20,7 +20,7 @@ url_poster: ""
 url_code: ""
 slides: null
 
-title: "XAI Evaluation Framework for Semantic Segmentation"
+title: "A Quantitative Evaluation Framework for Explainable AI in Semantic Segmentation"
 #publication: "*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*"
 
 # Show publication and sharing statistics? (requires valid doi)
@@ -47,6 +47,6 @@ featured: false
 #doi: "10.1109/JSTARS.2022.3181446"
 date: "2025-10-27T00:00:00Z"
 
-abstract: "Ensuring transparency and trust in artificial intelligence (AI) models is essential, particularly as they are increasingly applied in safety-critical and high-stakes domains. Explainable AI (XAI) has emerged as a promising approach to address this challenge, yet the rigorous evaluation of XAI methods remains crucial for optimizing the trade-offs between model complexity, predictive performance, and interpretability. While extensive progress has been achieved in evaluating XAI techniques for classification tasks, evaluation strategies tailored to semantic segmentation remain relatively underexplored. This work introduces a comprehensive and systematic evaluation framework specifically designed for assessing XAI in semantic segmentation, explicitly accounting for both spatial and contextual task complexities. The framework employs pixel-level evaluation strategies and carefully designed metrics to provide fine-grained interpretability insights. Simulation results using recently adapted class activation mapping (CAM)-based XAI schemes demonstrate the efficiency, robustness, and reliability of the proposed methodology. These findings contribute to advancing transparent, trustworthy, and accountable semantic segmentation models."
+abstract: "Ensuring transparency and trust in artificial intelligence (AI) models is essential as they are increasingly deployed in safety-critical and high-stakes domains. Explainable AI (XAI) has emerged as a promising approach to address this challenge; however, the rigorous evaluation of XAI methods remains vital for balancing the trade-offs between model complexity, predictive performance, and interpretability. While substantial progress has been made in evaluating XAI for classification tasks, strategies tailored to semantic segmentation remain limited. Moreover, objectively assessing XAI approaches is difficult, since qualitative visual explanations provide only preliminary insights. Such qualitative methods are inherently subjective and cannot ensure the accuracy or stability of explanations. To address these limitations, this work introduces a comprehensive quantitative evaluation framework for assessing XAI in semantic segmentation, accounting for both spatial and contextual task complexities. The framework systematically integrates pixel-level evaluation strategies with carefully designed metrics to yield fine-grained interpretability insights. Simulation results using recently adapted class activation mapping (CAM)-based XAI schemes demonstrate the efficiency, robustness, and reliability of the proposed methodology. These findings advance the development of transparent, trustworthy, and accountable semantic segmentation models."
 
 ---
