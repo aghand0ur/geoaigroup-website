@@ -39,9 +39,9 @@ main:
 #  - name: Dataset
 #    url: '#dataset'
 #    weight: 80
-  - name: Catalog
-    url: 'catalogue'
-    weight: 90
+#  - name: Catalog
+#    url: 'catalogue'
+#    weight: 90
   - name: Media
     url: 'medias'
     weight: 100
