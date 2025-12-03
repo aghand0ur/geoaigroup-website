@@ -6,9 +6,9 @@
 publication_types: ['preprint']
 
 authors:
-  - mohamad_zahweh
   - hassan_wehbi
   - hasan_nasrallah
+  - mohamad_zahweh
   - Zeinab Takach
   - veeraganesh_yalla
   - admin
