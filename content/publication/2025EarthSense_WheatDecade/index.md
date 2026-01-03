@@ -47,7 +47,7 @@ image:
   
   
 featured: false
-#doi: "10.1109/JSTARS.2022.3181446"
+doi: "10.1109/EarthSense66084.2025.11297250"
 date: "2025-03-29T00:00:00Z"
 
 abstract: "Wheat accounts for approximatly 20% of the world's caloric intake making it a vital component of global food secuirty. Given this significance, mapping wheat fields plays a crucial role in enabling various stakeholders including policymakers, researchers, and agricultural organizations to make informed decisions regarding food security, supply chain management, and resource allocation. 
