@@ -3,8 +3,8 @@ title: Ali Saleh
 role: Graduate Student
 bio: null
 interests:
-  - Programming
-  - Machine Learning
+  - Explainable AI
+  - MLOPs
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,4 +25,4 @@ user_groups:
 weight: 1
 ---
 
-**Ali Saleh** is
+**Ali Saleh** is a Computer and Communication Engineer graduate from the Lebanese University and currently a master’s student in AI and Data Engineering at the Faculty of Science – Lebanese University. He is a hardworking and determined person, and those qualities naturally led him toward research. Ali plans to continue growing academically in the future, maybe even pursuing a PhD someday :)
