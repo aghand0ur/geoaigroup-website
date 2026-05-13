@@ -24,7 +24,7 @@ organizations:
     url: null
 superuser: false
 user_groups:
-  - Members
+  - Alumni
 ---
 
 **Fadl Ghaddar** is a high school student interested in ML and data science. He always looks for ways to implement them in areas where we can actually benefit humans.

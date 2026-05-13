@@ -27,7 +27,7 @@ organizations:
     url: null
 superuser: false
 user_groups:
-  - Members
+  - Alumni
 ---
 
 **Hasan Moughnieh** is an Electronics and Communication Engineer with a passion for Artificial Intelligence and Machine Learning. His educational background has equipped him with a strong foundation in engineering principles, while his personal interests have led him to explore the vast potential of AI and ML technologies. His ultimate goal is to immerse himself in the field of AI, harnessing its power to develop innovative solutions for real-world challenges. As he continues to learn and grow in this exciting domain, he aspires to make a lasting impact on the industry, contributing to its progress and shaping the future of AI-driven technologies.

@@ -21,7 +21,7 @@ organizations:
     url: null
 superuser: false
 user_groups:
-  - Members
+  - Alumni
 
 ---
 

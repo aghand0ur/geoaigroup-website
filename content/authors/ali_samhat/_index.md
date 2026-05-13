@@ -24,7 +24,7 @@ organizations:
     url: null
 superuser: false
 user_groups:
-  - Members
+  - Alumni
 ---
 
 **Ali Samhat** is a self studying developer with expertise in Python, SQL, Colab and experience with the popular MERN stack.
