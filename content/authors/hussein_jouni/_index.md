@@ -1,26 +1,26 @@
 ---
-title: Hussein Termos
+title: Hussein Jouni
 role: MLOps Engineer
 bio: null
 interests:
-  - Computer Vision
+  - SAR
   - Software Development
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:htermos4 at gmail.com
+    link: mailto:husseinjouni62 at gmail.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/husseintermos/
+    link: https://www.linkedin.com/in/hussein-jouni/
   - icon: github
     icon_pack: fab
-    link: https://github.com/HusseinTermos
+    link: https://github.com/Sinojouni
 organizations:
-  - name: American University of Beirut
+  - name: Lebanese University
     url: null
 email: ""
 superuser: false
 user_groups:
   - Members
 ---
-**Hussein Termos** is a 
+**Hussein Jouni** is a 
