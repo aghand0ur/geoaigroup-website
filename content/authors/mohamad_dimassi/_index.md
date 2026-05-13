@@ -21,6 +21,5 @@ superuser: false
 user_groups:
   - Members
   
-weight: 3
 ---
 Full Stack Engineer and Software Developer, having excellent knowledge in algorithms, data structures, and programming (C++ & Python), and experienced in designing Machine Learning and Computer Vision projects.
