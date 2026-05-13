@@ -6,7 +6,7 @@
 publication_types: ['preprint']
 
 authors:
-  - Ali Ahmad Faour
+  - ali_faour
   - Nabil Amacha
   - admin
   
