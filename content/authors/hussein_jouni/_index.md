@@ -1,6 +1,6 @@
 ---
 title: Hussein Jouni
-role: MLOps Engineer
+role: AI Engineer
 bio: null
 interests:
   - SAR

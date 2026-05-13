@@ -1,6 +1,6 @@
 ---
-title: Hussein Termos
-role: Computer Engineering Student
+title: Marc Abou Serhal
+role: Computer Science Student
 bio: null
 interests:
   - Computer Vision
@@ -8,13 +8,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:htermos4 at gmail.com
+    link: mailto:marcabouserhal at gmail.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/husseintermos/
+    link: https://www.linkedin.com/in/marcabouserhal/
   - icon: github
     icon_pack: fab
-    link: https://github.com/HusseinTermos
+    link: https://github.com/MarcAbouSerhal
 organizations:
   - name: American University of Beirut
     url: null
@@ -23,4 +23,4 @@ superuser: false
 user_groups:
   - Members
 ---
-**Hussein Termos** is a 
+**Marc Abou Serhal** is a 
