@@ -3,9 +3,9 @@ title: Marc Abou Serhal
 role: Computer Science Student
 bio: null
 interests:
-  - Software engineering
-  - Machine learning
-  - Theoretical Computer
+  - Software Engineering
+  - Machine Learning
+  - Theoretical Computer Science
 social:
   - icon: envelope
     icon_pack: fas
