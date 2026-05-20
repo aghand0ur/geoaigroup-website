@@ -1,10 +1,13 @@
 ---
 title: Hussein Jouni
-role: AI Engineer
+role: AI Researcher
 bio: null
 interests:
-  - SAR
-  - Software Development
+  - SAR Change Detection
+  - Backend Engineering
+  - Agentic AI Systems
+  - Large Language Models
+  - Geospatial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,4 +26,4 @@ superuser: false
 user_groups:
   - Members
 ---
-**Hussein Jouni** is a 
+**Hussein Jouni** is a Software Engineer and AI Researcher with a focus on backend systems, agentic AI, and SAR-based change detection. 
