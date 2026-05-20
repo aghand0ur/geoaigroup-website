@@ -3,8 +3,9 @@ title: Marc Abou Serhal
 role: Computer Science Student
 bio: null
 interests:
-  - Computer Vision
-  - Software Development
+  - Software engineering
+  - Machine learning
+  - Theoretical Computer
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,4 +24,4 @@ superuser: false
 user_groups:
   - Members
 ---
-**Marc Abou Serhal** is a 
+**Marc Abou Serhal** is a Computer Science student at the American University of Beirut with interests in software engineering, machine learning, algorithms, and graph theory. He has experience in frontend and backend development, as well as applied machine learning. He also enjoys competitive programming, where he tackles challenging algorithmic problems.
