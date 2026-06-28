@@ -18,7 +18,7 @@ url_dataset: ""
 url_project: "https://geogroup.ai/project/crop-monitoring/"
 url_source: ""
 url_video: ""
-url_slides: ""
+url_slides: "https://geogroup.ai/publication/2025earthsense_wheatdecade/Slides_DecadeWheatLebanon_EarthSense_17Sept2025.pdf"
 url_poster: ""
 url_code: ""
 slides: null

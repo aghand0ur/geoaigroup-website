@@ -15,7 +15,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-url_slides: ""
+url_slides: "https://geogroup.ai/publication/2025isprsgeospatial_quaraaoun50years/Slides_50Years.pdf"
 url_poster: ""
 url_code: ""
 slides: null
