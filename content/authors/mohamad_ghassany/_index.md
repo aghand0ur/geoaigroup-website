@@ -13,7 +13,7 @@ social:
     link: mailto:mohamad.ghassany at efrei.fr
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=oiH7PAQAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=rqfVsosAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mghassany/
