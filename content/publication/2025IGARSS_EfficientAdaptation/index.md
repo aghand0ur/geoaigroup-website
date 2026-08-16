@@ -48,7 +48,7 @@ image:
   
   
 featured: false
-#doi: "10.1109/JSTARS.2022.3181446"
+doi: "10.1109/IGARSS55030.2025.11243354"
 date: "2025-02-25T00:00:00Z"
 
 abstract: "Foundation models have revolutionized artificial intelligence (AI), offering remarkable capabilities across multi-modal domains. Their ability to precisely locate objects in complex aerial and satellite images, using rich contextual information and detailed object descriptions, is essential for remote sensing (RS). These models can associate textual descriptions with object positions through the Visual Grounding (VG) task, but due to domain-specific challenges, their direct application to RS produces sub-optimal results.
