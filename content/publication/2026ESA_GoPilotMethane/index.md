@@ -47,7 +47,7 @@ image:
   
 featured: false
 #doi: "10.1109/JSTARS.2022.3181446"
-date: "2026-07-19T00:00:00Z"
+date: "2026-09-29T00:00:00Z"
 
 abstract: "Methane is a potent greenhouse gas, and rapid detection and quantification of large point-source emissions are important for climate monitoring and mitigation. Sentinel-2 provides a practical means of monitoring methane emissions at a global scale. However, existing real-world datasets are limited in size, geographically biased, and subject to annotation uncertainty, constraining the development of reliable models for methane plume detection and emission quantification. 
 
