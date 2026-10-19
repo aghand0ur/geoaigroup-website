@@ -15,7 +15,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-url_slides: "https://geogroup.ai/publication/2026ECRS_QRDA/slides_2026ECRS_QRDA"
+url_slides: "https://geogroup.ai/publication/2026ECRS_QRDA/slides_2026ECRS_QRDA.pdf"
 url_poster: ""
 url_code: ""
 slides: null
