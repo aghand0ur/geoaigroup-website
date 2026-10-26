@@ -18,7 +18,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 url_slides: ""
-url_poster: "https://geogroup.ai/publication/2026ESA_GoPilotMethane/Poster.pdf""
+url_poster: "https://geogroup.ai/publication/2026ESA_GoPilotMethane/Poster.pdf"
 url_code: ""
 slides: null
 
