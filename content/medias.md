@@ -10,6 +10,9 @@ title: "Press & Media"
 ---
 
 <ul>
+	<li><strong>GeoAgents:</strong> Seminar about "Geospatial Agents: From AI Models to Intelligent Workflows" organized by the African Women in GIS <a href="https://www.youtube.com/watch?v=lcHlRklqCwQ" target="_blank">[Recording]</a> <a href="../media/GeoAgentsSeminar_22Oct2026.pdf" target="_blank">[Slides] </a><i>(22 October 2026)</i>.</li>
+	<li><strong>Solar rooftop potential project:</strong> <a href="https://al-akhbar.com/Community/364188" target="_blank">Featured on Al-Akhbar Newspaper</a> 
+	<a href="https://www.linkedin.com/posts/alighandour_featured-today-on-the-cover-page-of-al-akhbar-activity-7074321199274565633-yF8m" target="_blank">cover page</a> <i>(13 June 2023)</i>.</li>
 	<li><strong>Damage assessment project</strong>: <a href="https://al-akhbar.com/Community/382897" target="_blank">Featured in Al-Akhbar Newspaper</a><i>(8 June 2024)</i>.
 	</li>
 	<li><strong>VLM4EO project:</strong> Live Demo session "Zero-Shot Buildings' Segmentation using SAM" as part of the <a href="https://noaaai2023.sched.com/event/1SA4X/live-demo-zero-shot-buildings-segmentation-using-sam" target=_blank>"5th NOAA AI workshop 2023"</a> that has more than 1000 registered participants <a href="https://ncsu.zoom.us/rec/play/OgcHgr7YvYXmoAWwaz8bp_VMFsjSTasFpHcP6fsIlzRf_BG9mot6kjfwXynvvIYlLcoibzqZbBEhowgJ.flNYlRkOXC7eZoUe?canPlayFromShare=true&from=share_recording_detail&startTime=1695056412000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fncsu.zoom.us%2Frec%2Fshare%2Fca8YOdXyDfMBDOto9eHqaoOcMzKRdg4LjqKtt2BPSxzzg96zEjGfKeY1dlIkdBCb.vStQgHc6ndVGDEHx%3FstartTime%3D1695056412000" target="_blank">[Recording]</a> <a href="../media/NOAAAI_GEOAI_18Sept2023.pdf" target="_blank">[Slides]</a> 
